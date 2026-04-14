@@ -199,7 +199,7 @@ Topic:       savonia/iot/temperature
 
 Open a browser and visit:
 ```
-https://api.telegram.org/bot8550022968:AAGO-mAPTahJFfaWA9ZQqED9ovdph28KTcU/getUpdates
+https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 ```
 You should see your chat ID in the JSON response.
 
