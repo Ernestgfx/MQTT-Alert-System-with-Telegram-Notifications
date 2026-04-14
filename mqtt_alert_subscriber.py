@@ -21,8 +21,8 @@ MQTT_TOPIC    = "savonia/iot/temperature"
 MQTT_CLIENT_ID = "alert_subscriber_savonia"
 
 # Telegram Bot credentials
-TELEGRAM_TOKEN   = "8550022968:AAGO-mAPTahJFfaWA9ZQqED9ovdph28KTcU"
-TELEGRAM_CHAT_ID = "1820460614"
+TELEGRAM_TOKEN   = "####"
+TELEGRAM_CHAT_ID = "####"
 
 # Alert threshold in degrees Celsius
 TEMPERATURE_THRESHOLD = 28.0
